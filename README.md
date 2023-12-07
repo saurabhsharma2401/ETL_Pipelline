@@ -1,6 +1,4 @@
-# GoodReads Data Pipeline
-
-<img src="https://github.com/san089/goodreads_etl_pipeline/blob/master/docs/images/goodreads.png" align="centre">
+# ETL Pipeline
 
 ## Architecture 
 ![Pipeline Architecture](https://github.com/san089/goodreads_etl_pipeline/blob/master/docs/images/architecture.png)
