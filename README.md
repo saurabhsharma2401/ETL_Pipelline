@@ -1,7 +1,7 @@
 # ETL Pipeline
 
 ## Architecture 
-![Pipeline Architecture](https://github.com/saurabhsharma2401/ETL_Pipeline/blob/master/docs/images/architecture.png)
+![Pipeline Architecture](https://github.com/saurabhsharma2401/ETL_Pipelline/blob/main/docs/images/architecture.png)
 
 Pipeline Consists of various modules:
 
